@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor & Distinguished Professor of Finance, Head of Institute for Financial Innovation & Technology
+role: Professor of Finance, Head of Institute for Financial Innovation & Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,13 @@ organizations:
     url: https://www.som.lmu.de/fintech/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Prof. Dr. Ryan Riordan heads the new Institute for Financial Innovation & Technology at the Munich School of Management since 2022. He extensively studies the use of technology in financial markets, high frequency trading and the intersection of climate risks and asset pricing.
+bio: My research interests include financial markets, market microstructure, FinTech, and sustainable finance.
 
 # Interests to show in About widget
 interests:
-  - Technology in Financial Markets
-  - High Frequency Trading
-  - Sustainable Finance
+  - Financial technology
+  - Machine learning in finance
+  - Trading in financial and crypto-market
 
 # Education to show in About widget
 education:
@@ -75,5 +75,4 @@ social:
 highlight_name: true
 ---
 
-Prof. Dr. Ryan Riordan heads the new Institute for Financial Innovation & Technology at the Munich School of Management since 2022. He extensively studies the use of technology in financial markets, high frequency trading and the intersection of climate risks and asset pricing.
-{style="text-align: justify;"}
+I am an expert in market microstructure including the use of algorithms in the trading process. My work focuses on the market quality effects of market automation, the use of algorithms to buy and sell securities, and how prices are discovered in equity, option, bond and crypto markets. Recently have focused on topics in sustainable finance. My work has been published in the Journal of Finance, Journal of Financial Economics, the Review of Financial Studies, and other leading finance journals. My papers have received numerous best-paper awards, including one from the Review of Financial Studies. I have chaired conferences including the European Retail Investment Conference, and the SAFE Market Microstructure conference. I launched the first FinTech masters program in Canada. {style="text-align: justify;"}
