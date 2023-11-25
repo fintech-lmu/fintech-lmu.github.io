@@ -62,8 +62,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text:
       # Contact (add or remove contact options as necessary)
       email: fintech@som.lmu.de
       phone:  +49 89 2180-6325
