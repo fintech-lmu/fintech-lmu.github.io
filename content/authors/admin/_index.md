@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Finance, Head of Institute for Financial Innovation & Technology
+role: Professor & Distinguished Professor of Finance, Head of Institute for Financial Innovation & Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
