@@ -21,8 +21,10 @@ role: Professor of Finance, Head of Institute for Financial Innovation & Technol
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute for Financial Innovation & Technology at LMU Munich
-    url: https://www.som.lmu.de/fintech/en/index.html
+  - name: Ludwig-Maximilians-Universität München, Institute for Financial Innovation & Technology
+    url: https://www.som.lmu.de/fintech/en/team/contact-page/riordan.html
+  - name: Queen’s University, Smith School of Business
+    url: https://smith.queensu.ca/faculty_and_research/faculty_list/riordan-ryan.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial markets, market microstructure, FinTech, and sustainable finance.

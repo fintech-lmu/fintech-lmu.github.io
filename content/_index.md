@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: featured
     content:
       title: Publications
       text: |-
@@ -56,5 +57,40 @@ sections:
     design:
       columns: '2'
       view: citation
-
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text:
+      # Contact (add or remove contact options as necessary)
+      email: fintech@som.lmu.de
+      phone:  +49 89 2180-6325
+      appointment_url: 
+      address:
+        street: Schackstraße 4
+        city: Munich
+        region: Bayern
+        postcode: '80539'
+        country: Germany
+        country_code: DE
+      directions: 
+      office_hours: By appointment
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '48.151780'
+        longitude: '11.583720'  
+      contact_links:
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '2'
 ---
