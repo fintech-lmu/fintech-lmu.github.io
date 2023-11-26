@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Latest Publications
       text: |-
         {{% callout note %}}
         [Filter publications](./publication/).
