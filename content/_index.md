@@ -94,7 +94,9 @@ sections:
 
     design:
       columns: '2'
+
+{{< contact-form >}}
 ---
 
 
-{{< contact-form >}}
+
