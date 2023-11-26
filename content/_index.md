@@ -94,8 +94,8 @@ sections:
 
     design:
       columns: '2'
-  - block: contactTwo
-    content: {{< layouts.contact-form >}}
+  #- block: contactTwo
+  #  content: {{< layouts.contact-form >}}
 ---
 
 
