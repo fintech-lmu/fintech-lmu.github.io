@@ -84,13 +84,17 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree: #https://formspree.io/ryan.riordan@queensu.ca
-          id: #ryan.riordan@queensu.ca
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id: 
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: true
+
     design:
       columns: '2'
 ---
+
+
+{{< contact-form >}}
