@@ -86,8 +86,8 @@ sections:
       # Email form provider
       form:
         provider: netlify
-        formspree: https://formspree.io/ryan.riordan@queensu.ca
-          id: ryan.riordan@queensu.ca
+        formspree: #https://formspree.io/ryan.riordan@queensu.ca
+          id: #ryan.riordan@queensu.ca
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
