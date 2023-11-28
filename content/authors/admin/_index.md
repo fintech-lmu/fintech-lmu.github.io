@@ -59,7 +59,7 @@ social:
     link: 'mailto:fintech@som.lmu.de'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.ca/citations?user%253D3xgPUpkAAAAJ%2526hl%253Den
+    link: https://scholar.google.ca/citations?user=3xgPUpkAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/riordanr
